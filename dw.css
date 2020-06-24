@@ -87,3 +87,16 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     text-decoration: none;
     color: white;
 }
+
+.dwTBox {
+    padding: 55px;
+    background-color: #262626;
+    
+}
+
+.dwMidText {
+    font-family: Playfair Display;
+    font-size: 22px;
+    text-decoration: none;
+    color: white;
+}
