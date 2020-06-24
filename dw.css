@@ -7,10 +7,7 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     background-color: #121212;
 }
 
-AM {padding:75px; background-color: darkcyan;}
-AMH {font-family: Ubuntu; font-size: 30px; color: white;}
-
-.dwheader {
+.dwHeader {
     padding-top: 16px;
     padding-bottom:16px;
     padding-right: 5px;
@@ -24,12 +21,33 @@ AMH {font-family: Ubuntu; font-size: 30px; color: white;}
     position: sticky;
 }
 
+.dwBar {
+    padding: 3px;
+    /* Apply your own color */
+}
+
 .dwRight {
     margin-left: 75%;
 }
 
 .dwText {
     font-family: Lora;
-    font-size: 25px;
+    font-size: 20px;
     color: white;
+}
+
+.dwImgCenter {
+    margin-left: 50%;
+    margin-right:50%;
+}
+
+.dwHText {
+    font-family: Playfair Display;
+    color: white;
+    font-size: 25px;
+    /* Apply your own centering :P */
+}
+
+.dwTCenter {
+    text-align: center;
 }
